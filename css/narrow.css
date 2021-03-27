@@ -1,0 +1,12 @@
+#characters {
+  height: 4em;
+}
+
+.generate #content {
+  text-align: center;
+}
+
+#generate-form {
+  display: inline-block;
+  text-align: left;
+}
