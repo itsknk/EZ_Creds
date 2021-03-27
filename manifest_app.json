@@ -1,5 +1,5 @@
 {
-  "name": "Password Generator",
+  "name": "EZ Creds",
   "version": "0.0",
   "manifest_version": 2,
   "description": "Generate passwords for websites based on one master password and their domains.",
