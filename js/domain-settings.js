@@ -1,4 +1,3 @@
-// Copyright (c) 2014 Oleg Eterevsky. Licensed under the MIT license.
 
 /**
  * Per-domain settings include which profile is used for domain, and

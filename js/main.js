@@ -1,5 +1,3 @@
-// Copyright (c) 2014 Oleg Eterevsky. Licensed under the MIT license.
-
 var profiles = null;
 var popup = null;
 var domainSettings = null;

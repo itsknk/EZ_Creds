@@ -1,4 +1,3 @@
-// Copyright (c) 2013 Oleg Eterevsky. Licensed under the MIT license.
 
 if (typeof require !== 'undefined') {
   var BigUInt = require('./biguint').BigUInt;

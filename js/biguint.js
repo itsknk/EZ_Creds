@@ -1,4 +1,3 @@
-// Copyright (c) 2013 Oleg Eterevsky. Licensed under the MIT license.
 
 /**
  * @constructor
