@@ -1,5 +1,3 @@
-// Copyright (c) 2014 Oleg Eterevsky. Licensed under the MIT license.
-
 /**
  * @file Here goes all the code, specific to Chrome Extension.
  */

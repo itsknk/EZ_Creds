@@ -1,4 +1,4 @@
-// Copyright (c) 2013 Oleg Eterevsky. Licensed under the MIT license.
+
 
 /** @type {Profiles} */
 var profiles = null;
